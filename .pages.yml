@@ -34,4 +34,4 @@ content:
       fields: [ title, rate ]
     fields:
       - { name: title, label: Title, type: string, required: true }
-      - { name: rate, Title: Rate, type: string, required: true}
+      - { name: rate, label: Rate, type: string, required: true}
